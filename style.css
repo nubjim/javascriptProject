@@ -1,0 +1,24 @@
+body{
+  background-color: blueviolet;
+  color: white;
+}
+header{
+  background-color: dimgray;
+  text-align: center;
+  width: 300px;
+  font-size: 30px;
+  position: relative;
+  left: 35%;
+}
+div{
+  background-color: dimgray;
+  text-align: center;
+  width: 300px;
+  height: 500px;
+  padding: 30px;
+}
+div a{
+  background-color: lightgray;
+  padding: 20px;
+  margin: 10px;
+}
